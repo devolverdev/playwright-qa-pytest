@@ -1,0 +1,10 @@
+
+```gitignore
+.venv/
+__pycache__/
+*.pyc
+form_result.png
+report.html
+config/secrets.py
+.vscode/
+.DS_Store
